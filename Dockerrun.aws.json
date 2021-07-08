@@ -24,7 +24,7 @@
 		},
 		{
 			"name": "nginx",
-			"image": "fgiraldolumu/nginx",
+			"image": "fgiraldolumu/multi-nginx",
 			"hostname": "nginx",
 			"essential": true,
 			"portMappings": [
